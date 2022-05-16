@@ -27,10 +27,7 @@ public class Calculadora {
         this.modelo=modelo;
     }
     
-    public Calculadora(){
-        
-    }
-
+   
     public double getNumero1() {
         return numero1;
     }
