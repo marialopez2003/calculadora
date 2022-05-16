@@ -62,4 +62,17 @@ public class Calculadora {
     public void setModelo(String modelo) {
         this.modelo = modelo;
     }
+    
+    public double suma (){
+        return(this.numero1+this.numero2);
+    }
+    public double resta (){
+        return(this.numero1-this.numero2);
+    }
+    public double multi (){
+        return(this.numero1*this.numero2);
+    }
+    public double div (){
+        return(this.numero1/this.numero2);
+    }
 }
