@@ -30,4 +30,36 @@ public class Calculadora {
     public Calculadora(){
         
     }
+
+    public double getNumero1() {
+        return numero1;
+    }
+
+    public void setNumero1(double numero1) {
+        this.numero1 = numero1;
+    }
+
+    public double getNumero2() {
+        return numero2;
+    }
+
+    public void setNumero2(double numero2) {
+        this.numero2 = numero2;
+    }
+
+    public String getMarca() {
+        return marca;
+    }
+
+    public void setMarca(String marca) {
+        this.marca = marca;
+    }
+
+    public String getModelo() {
+        return modelo;
+    }
+
+    public void setModelo(String modelo) {
+        this.modelo = modelo;
+    }
 }
