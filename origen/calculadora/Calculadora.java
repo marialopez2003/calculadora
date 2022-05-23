@@ -7,7 +7,7 @@ package calculadora;
 
 /**
  *
- * @author Maria
+  @author Mariavfgs
  */
 public class Calculadora {
     private double numero1;
